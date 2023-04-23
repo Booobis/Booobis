@@ -16,7 +16,7 @@
 <img src="https://user-images.githubusercontent.com/56123405/177257029-97b74749-6158-42db-a3bc-c4f8f80db01c.png" align="right" width=300>
 
 ## :man_technologist: About Me :
-I am an aspiring Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am an aspiring Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 - :zap: In my free time, I read tech articles, read novels
 - 🌱 I’m currently learning **C#**
