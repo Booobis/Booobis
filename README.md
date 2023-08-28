@@ -22,6 +22,8 @@ I am an aspiring Python Developer <img src="https://media.giphy.com/media/WUlplc
 - 🌱 I’m currently learning **C#**
 -  💬 Ask me about **Python**
 
+-  ![](https://komarev.com/ghpvc/?username=Booobsis)
+
 ---
 
 
